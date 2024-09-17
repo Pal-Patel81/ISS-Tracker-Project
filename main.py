@@ -9,9 +9,7 @@ from selenium.webdriver.common.keys import Keys
 MY_LAT = 38.846226 # Your latitude
 MY_LONG = -77.306374 # Your longitude
 #
-# my_email = "palpatel2101@gmail.com"
-# password = "osjwebyubwjsuogc"
-# connection = smtplib.SMTP("smtp.gmail.com")
+
 # connection.starttls()
 # connection.login(user=my_email, password=password)
 
